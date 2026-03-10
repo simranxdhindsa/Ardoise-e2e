@@ -1,0 +1,26 @@
+ui/
+mission-control/
+studio-web/
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.e2e
+
+# E2E / Playwright
+e2e/.auth/
+e2e/reports/
+e2e/snapshots/
+e2e/test-results/
+test-results/
+playwright-report/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
