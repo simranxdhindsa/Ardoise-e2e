@@ -1,6 +1,7 @@
 ui/
 mission-control/
 studio-web/
+Bots Configuration/
 
 # Dependencies
 node_modules/

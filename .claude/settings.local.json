@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git stash:*)",
+      "Bash(git pull:*)",
+      "Bash(git checkout:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(yarn install:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(npx playwright:*)",
+      "Bash(npx:*)",
+      "Bash(node:*)",
+      "Bash(ls:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(mv:*)",
+      "Bash(cat:*)",
+      "Bash(echo:*)",
+      "Bash(node_modules/.bin/playwright install chromium)",
+      "Bash(node_modules/.bin/playwright --version)",
+      "Bash(node_modules/.bin/playwright test --config=e2e/playwright.config.ts --list)",
+      "Bash(node_modules/.bin/tsc --project e2e/tsconfig.json --noEmit)",
+      "Read(//c//**)",
+      "Read(//c/Users/Simran/.claude/projects/c--dhindsa-Ardoise 2>/dev/**)",
+      "Read(//c/Users/Simran/.claude/projects/c--dhindsa-Ardoise//**)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\Simran\\.claude\\projects\\c--dhindsa-Ardoise",
+      "C:\\Users\\Simran\\.claude\\projects\\c--dhindsa-Ardoise\\memory"
+    ]
+  }
+}
