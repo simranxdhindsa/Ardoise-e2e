@@ -178,3 +178,4 @@ e2e/
 | Selector not found | Open Playwright GUI → click the failing test → inspect DOM snapshot |
 | Test flaky / timeout | Increase `timeout` in `playwright.config.ts` or add `waitFor` in the test |
 | 4xx API errors | Check Network tab in Playwright trace for the actual error response |
+
