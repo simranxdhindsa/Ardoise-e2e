@@ -1,0 +1,7 @@
+stages:
+  - test
+
+placeholder:
+  stage: test
+  script:
+    - echo "Pipeline passed"
