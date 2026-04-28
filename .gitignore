@@ -33,3 +33,12 @@ playwright-report/
 # OS
 .DS_Store
 Thumbs.db
+
+
+.md
+*.md
+!README.md
+!CONTRIBUTING.md
+!LICENSE.md
+!CLAUDE.md
+!docs/
